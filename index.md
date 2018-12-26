@@ -27,7 +27,7 @@ I'm a MSc student in Robotics
 
 ## EXPERIENCE
 
-```js
+<!-- ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
@@ -40,7 +40,7 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``` -->
 ## EDUCATION
 
 > This is a blockquote following a header.
@@ -48,7 +48,7 @@ end
 > When something is important enough, you do it even if the odds are not in your favor.
 
 
-
+<!-- 
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -132,4 +132,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
