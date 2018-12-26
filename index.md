@@ -15,12 +15,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 I'm a MSc student in Robotics
 
 ## SCIENTIFIC PROJECTS
-#### **YANG YOU**
-#### Robot Failure Detection
+#### Robot Failure Detection, **YANG YOU**
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
-
+[Report](./assets/reports/Robot_failure.pdf).
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
