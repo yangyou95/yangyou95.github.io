@@ -14,13 +14,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 I'm a MSc student in Robotics
 
-## Header 2
+## SCIENTIFIC PROJECTS
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## EXPERIENCE
 
 ```js
 // Javascript code with syntax highlighting.
@@ -36,6 +36,13 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+## EDUCATION
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+
 
 #### Header 4
 
