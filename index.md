@@ -24,7 +24,7 @@ I'm a MSc student in Robotics
 > This is a blockquote following a header.
 > When something is important enough, you do it even if the odds are not in your favor.
 
-#### Robot Failure Detection, **YANG YOU**
+#### Project demonstrate, **YANG YOU**
 
 
 
@@ -32,7 +32,7 @@ I'm a MSc student in Robotics
 > When something is important enough, you do it even if the odds are not in your favor.
 > [Report](./assets/reports/Robot_failure.pdf).
 
-#### Robot Failure Detection, **YANG YOU**
+#### Robot Project 2, **YANG YOU**
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
