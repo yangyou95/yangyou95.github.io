@@ -22,8 +22,52 @@ I'm a MSc student in Robotics
 *  [Report](./assets/reports/Robot_failure.pdf). -->
 
 > This is a blockquote following a header.
+> When something is important enough, you do it even if the odds are not in your favor.
+
+#### Robot Failure Detection, **YANG YOU**
+
+
+
+> This is a blockquote following a header.
+> When something is important enough, you do it even if the odds are not in your favor.
+> [Report](./assets/reports/Robot_failure.pdf).
+
+#### Robot Failure Detection, **YANG YOU**
+<!-- *   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*  [Report](./assets/reports/Robot_failure.pdf). -->
+
+> This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+#### Robot Failure Detection, **YANG YOU**
+<!-- *   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*  [Report](./assets/reports/Robot_failure.pdf). -->
+
+> This is a blockquote following a header.
+> When something is important enough, you do it even if the odds are not in your favor.
+
+#### Robot Failure Detection, **YANG YOU**
+<!-- *   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*  [Report](./assets/reports/Robot_failure.pdf). -->
+
+> This is a blockquote following a header.
+> When something is important enough, you do it even if the odds are not in your favor.
+
+
+
+
+
+
+
+
+
 
 ## EXPERIENCE
 
@@ -48,7 +92,7 @@ end
 > When something is important enough, you do it even if the odds are not in your favor.
 
 
-<!-- 
+<!--
 #### Header 4
 
 *   This is an unordered list following a header.
