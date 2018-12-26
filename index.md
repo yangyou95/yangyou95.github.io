@@ -16,10 +16,11 @@ I'm a MSc student in Robotics
 
 ## SCIENTIFIC PROJECTS
 #### Robot Failure Detection, **YANG YOU**
+<!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
-*   This is an unordered list following a header.
-* **Report** [Report](./assets/reports/Robot_failure.pdf).
+*  [Report](./assets/reports/Robot_failure.pdf). -->
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
