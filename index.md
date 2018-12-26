@@ -39,7 +39,6 @@ I'm a MSc student in Robotics
 *  [Report](./assets/reports/Robot_failure.pdf). -->
 
 > This is a blockquote following a header.
->
 > When something is important enough, you do it even if the odds are not in your favor.
 
 #### Robot Failure Detection, **YANG YOU**
