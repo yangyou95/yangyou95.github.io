@@ -28,8 +28,14 @@ I'm a MSc student in Robotics
 
 
 
-> This is a blockquote following a header.
-> When something is important enough, you do it even if the odds are not in your favor.
+> Abstract— The execution failure is a classical problem in
+robotics and much progress has been observed in recent
+years with supervised learning methods. In this paper, a
+method, which applying gaussian kernel convoluted data
+then using different machine learning algorithms and neural
+networks method to perform this classification task, shows
+a higher accuracy in prediction and less time consuming in
+training than the existing methods without convolution process.
 > [Report](./assets/reports/Robot_failure.pdf).
 
 #### Robot Project 2, **YANG YOU**
