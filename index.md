@@ -66,45 +66,14 @@ training than the existing methods without convolution process.
 ## EXPERIENCE
 #### **May.2018 - Sep.2018: Research Intern, Insititue of Automation, Chinese Acadmey of Sciences, Beijing, China.**
 *  Integrated the deep reinforcement learning algorithms (MADDPG and HER) into the robotics simulation in a virtual environment (Mujoco).
-
+* Internship report[[Report(fr)]](./assets/reports/Robot_failure.pdf) [[SRC]](https://github.com/yangyou95/Robot-Failure-Detection--A-convolutional-method).
 
 ## EDUCATION
 #### **2018 - Present: MSc in Robotics, Cranfield University, cranfield, UK**
-#### **2016- 2019: 	Diplôme d'ingénieur (French engineering degree, equivalent to an MSc degree), INSA-ROUEN, Rouen, France**
-#### **2014- 2016: Preparatory program of Sciences leading to the Grandes Ecole, INSA-ROUEN, Rouen, France** 
+#### **2016- 2019: 	Diplôme d'ingénieur (French engineering degree, equivalent to an MSc degree) in Mechinical Engineering, INSA-ROUEN, Rouen, France**
+#### **2014- 2016: Preparatory program of Sciences leading to the Grandes Ecole, INSA-ROUEN, Rouen, France**
 #### **Until 2014: Secondary education in Shenyang, China.**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 
 <!--
