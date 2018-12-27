@@ -21,7 +21,7 @@ I'm a MSc student in Robotics
 *   This is an unordered list following a header.
 *  [Report](./assets/reports/DRL_Research.pdf). -->
 
-> A novel method of control the dual arm Manipulation with deep reinforcement learning method.
+> A novel method of control the dual arm Manipulation with deep reinforcement learning method  [[Report]](./assets/reports/DRL_Research.pdf).
 
 
 #### **Fast failure detection in robotics using supervised learning method with convolutional gaussian processes**, **YANG YOU**
@@ -40,22 +40,8 @@ training than the existing methods without convolution process.
 
 #### **JDX Robotics Competition**, Xuemei Ye, **YANG YOU**
 
-> This is a blockquote following a header.
-> When something is important enough, you do it even if the odds are not in your favor.
-> [[Slides]](./assets/reports/Robot_failure.pdf)
-
-
-<!-- #### Robot Failure Detection, **YANG YOU**
-<!-- *   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*  [Report](./assets/reports/Robot_failure.pdf). -->
-
-> This is a blockquote following a header.
-> When something is important enough, you do it even if the odds are not in your favor. -->
-
-
-
+> Need details
+> [[Slides]]()
 
 
 
