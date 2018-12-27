@@ -36,7 +36,7 @@ then using different machine learning algorithms and neural
 networks method to perform this classification task, shows
 a higher accuracy in prediction and less time consuming in
 training than the existing methods without convolution process.
-> [Report](./assets/reports/Robot_failure.pdf).
+> [[Report]](./assets/reports/Robot_failure.pdf).
 
 #### Robot Project 2, **YANG YOU**
 <!-- *   This is an unordered list following a header.
