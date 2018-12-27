@@ -47,14 +47,14 @@ training than the existing methods without convolution process.
 > This is a blockquote following a header.
 > When something is important enough, you do it even if the odds are not in your favor.
 > [[Slides]](./assets/reports/Robot_failure.pdf)
-#### Robot Failure Detection, **YANG YOU**
+<!-- #### Robot Failure Detection, **YANG YOU**
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *  [Report](./assets/reports/Robot_failure.pdf). -->
 
 > This is a blockquote following a header.
-> When something is important enough, you do it even if the odds are not in your favor.
+> When something is important enough, you do it even if the odds are not in your favor. -->
 
 #### Robot Failure Detection, **YANG YOU**
 <!-- *   This is an unordered list following a header.
