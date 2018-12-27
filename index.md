@@ -75,21 +75,10 @@ training than the existing methods without convolution process.
 
 
 ## EXPERIENCE
+#### **May.2018 - Sep.2018: Research Intern, Insititue of Automation, Chinese Acadmey of Sciences, Beijing, China.**
 
-<!-- ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-``` -->
+
 ## EDUCATION
 
 > This is a blockquote following a header.
