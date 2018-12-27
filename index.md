@@ -24,9 +24,7 @@ I'm a MSc student in Robotics
 > This is a blockquote following a header.
 > When something is important enough, you do it even if the odds are not in your favor.
 
-#### **Fast failure detection in robotics using supervised learning method with
-convolutional gaussian processes
-**, **YANG YOU**
+#### **Fast failure detection in robotics using supervised learning method with convolutional gaussian processes**, **YANG YOU**
 
 
 
