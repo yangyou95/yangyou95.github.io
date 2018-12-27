@@ -1,6 +1,7 @@
 title: Yang YOU
 logo: /assets/img/yang.jpg
-description: MSc Student in Robotics, Cranfield University. _y.you@cranfield.ac.uk_
+description: MSc Student in Robotics, Cranfield University.
+description: y.you@cranfield.ac.uk
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
