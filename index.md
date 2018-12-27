@@ -19,7 +19,7 @@ I'm a MSc student in Robotics
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
-*  [Report](./assets/reports/Robot_failure.pdf). -->
+*  [Report](./assets/reports/DRL_Research.pdf). -->
 
 > A novel method of control the dual arm Manipulation with deep reinforcement learning method.
 
@@ -45,14 +45,14 @@ training than the existing methods without convolution process.
 > [[Slides]](./assets/reports/Robot_failure.pdf)
 
 
-#### Robot Failure Detection, **YANG YOU**
+<!-- #### Robot Failure Detection, **YANG YOU**
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *  [Report](./assets/reports/Robot_failure.pdf). -->
 
 > This is a blockquote following a header.
-> When something is important enough, you do it even if the odds are not in your favor.
+> When something is important enough, you do it even if the odds are not in your favor. -->
 
 
 
@@ -66,7 +66,7 @@ training than the existing methods without convolution process.
 ## <br> EXPERIENCE
 #### **May.2018 - Sep.2018: Research Intern, Insititue of Automation, Chinese Acadmey of Sciences, Beijing, China.**
 *  Integrated the deep reinforcement learning algorithms (MADDPG and HER) into the robotics simulation in a virtual environment (Mujoco).
-* Internship report[[Report(fr)]](./assets/reports/Robot_failure.pdf) [[SRC]](https://github.com/yangyou95/Robot-Failure-Detection--A-convolutional-method).
+* Internship report[[Report(fr)]](./assets/reports/Report_internship.pdf)
 
 ## <br> EDUCATION
 #### **2018 - Present: MSc in Robotics, Cranfield University, cranfield, UK**
