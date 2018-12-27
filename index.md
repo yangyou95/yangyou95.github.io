@@ -39,22 +39,11 @@ training than the existing methods without convolution process.
 > [[Report]](./assets/reports/Robot_failure.pdf) [[SRC]](https://github.com/yangyou95/Robot-Failure-Detection--A-convolutional-method).
 
 #### **JDX Robotics Competition**, Xuemei Ye, **YANG YOU**
-<!-- *   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*  [Report](./assets/reports/Robot_failure.pdf). -->
 
 > This is a blockquote following a header.
 > When something is important enough, you do it even if the odds are not in your favor.
 > [[Slides]](./assets/reports/Robot_failure.pdf)
-<!-- #### Robot Failure Detection, **YANG YOU**
-<!-- *   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*  [Report](./assets/reports/Robot_failure.pdf). -->
 
-> This is a blockquote following a header.
-> When something is important enough, you do it even if the odds are not in your favor. -->
 
 #### Robot Failure Detection, **YANG YOU**
 <!-- *   This is an unordered list following a header.
@@ -76,10 +65,42 @@ training than the existing methods without convolution process.
 
 ## EXPERIENCE
 #### **May.2018 - Sep.2018: Research Intern, Insititue of Automation, Chinese Acadmey of Sciences, Beijing, China.**
-
+*  Integrated the deep reinforcement learning algorithms (MADDPG and HER) into the robotics simulation in a virtual environment (Mujoco).
 
 
 ## EDUCATION
+#### **2018 - Present: MSc in Robotics, Cranfield University, cranfield, UK**
+#### **2016- 2019: 	Diplôme d'ingénieur (French engineering degree, equivalent to an MSc degree), INSA-ROUEN, Rouen, France**
+#### **2014- 2016: Preparatory program of Sciences leading to the Grandes Ecole, INSA-ROUEN, Rouen, France** 
+#### **Until 2014: Secondary education in Shenyang, China.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > This is a blockquote following a header.
 >
