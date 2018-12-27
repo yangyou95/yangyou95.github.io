@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 I'm a MSc student in Robotics
 
 ## SCIENTIFIC PROJECTS
-#### Robot Learning for Dual Arms Manipulation, Qianyuan Liu, Xuemei Ye, **YANG YOU**
+#### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
@@ -65,7 +65,7 @@ training than the existing methods without convolution process.
 > This is a blockquote following a header.
 > When something is important enough, you do it even if the odds are not in your favor.
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
 
 
 
