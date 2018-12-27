@@ -21,8 +21,8 @@ I'm a MSc student in Robotics
 *   This is an unordered list following a header.
 *  [Report](./assets/reports/Robot_failure.pdf). -->
 
-> This is a blockquote following a header.
-> When something is important enough, you do it even if the odds are not in your favor.
+> A novel method of control the dual arm Manipulation with deep reinforcement learning method.
+
 
 #### **Fast failure detection in robotics using supervised learning method with convolutional gaussian processes**, **YANG YOU**
 
