@@ -24,7 +24,9 @@ I'm a MSc student in Robotics
 > This is a blockquote following a header.
 > When something is important enough, you do it even if the odds are not in your favor.
 
-#### **Project demonstrate**, **YANG YOU**
+#### **Fast failure detection in robotics using supervised learning method with
+convolutional gaussian processes
+**, **YANG YOU**
 
 
 
@@ -38,7 +40,7 @@ a higher accuracy in prediction and less time consuming in
 training than the existing methods without convolution process.
 > [[Report]](./assets/reports/Robot_failure.pdf) [[SRC]](https://github.com/yangyou95/Robot-Failure-Detection--A-convolutional-method).
 
-#### Robot Project 2, **YANG YOU**
+#### **JDX Robotics Competition**, Xuemei Ye, **YANG YOU**
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
@@ -46,7 +48,7 @@ training than the existing methods without convolution process.
 
 > This is a blockquote following a header.
 > When something is important enough, you do it even if the odds are not in your favor.
-
+> [[Slides]](./assets/reports/Robot_failure.pdf)
 #### Robot Failure Detection, **YANG YOU**
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header.
