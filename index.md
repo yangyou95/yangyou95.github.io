@@ -75,6 +75,11 @@ training than the existing methods without convolution process.
 #### **Until 2014: Secondary education in Shenyang, China.**
 
 
+## PERSONAL ACTIVITIES
+#### **Breakdance Club at INSA**
+*  President, Coach and Founder of the Breakdance club of INSA.
+* Trailer Video [[Video]](https://www.youtube.com/watch?v=noEaK8zkM-o).
+
 
 <!--
 #### Header 4
