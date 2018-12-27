@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 I'm a MSc student in Robotics
 
 ## SCIENTIFIC PROJECTS
-#### Robot Failure Detection, **YANG YOU**
+#### Robot Learning for Dual Arms Manipulation, Qianyuan Liu, Xuemei Ye, **YANG YOU**
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
