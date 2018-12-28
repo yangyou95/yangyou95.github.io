@@ -46,7 +46,7 @@ training than the existing methods without convolution process.
 
 
 ## <br> EXPERIENCE
-#### **May.2018 - Sep.2018: Research Intern, Insititue of Automation, Chinese Acadmey of Sciences, Beijing, China.**
+#### **May.2018 - Sep.2018: Research Intern, Institute of Automation, Chinese Acadmey of Sciences, Beijing, China.**
 *  Integrated the deep reinforcement learning algorithms (MADDPG and HER) into the robotics simulation in a virtual environment (Mujoco).
 * Internship report[[Report(fr)]](./assets/reports/Report_internship.pdf)[[Report(en)]](./assets/reports/DRL_Research.pdf).
 
