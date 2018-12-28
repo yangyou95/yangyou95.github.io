@@ -36,7 +36,7 @@ training than the existing methods without convolution process.
 
 #### **JDX Robotics Competition**, Xuemei Ye, **YANG YOU**
 
-> Need details
+> A mobile robot with arms and end effectors, which can perform picking and placing tasks in various environments.
 > [[Slides(ch)]](./assets/reports/slides_ch.pptx)
 
 
