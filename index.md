@@ -37,7 +37,7 @@ training than the existing methods without convolution process.
 #### **JDX Robotics Competition**, Xuemei Ye, **YANG YOU**
 
 > Need details
-> [[Slides(ch)]](./assets/reports/slides_ch)
+> [[Slides(ch)]](./assets/reports/slides_ch.pptx)
 
 
 
