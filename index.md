@@ -17,7 +17,7 @@ I'm a MSc student in Robotics
 ## SCIENTIFIC PROJECTS
 #### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
 
-> A novel method of control the dual arm Manipulation with deep reinforcement learning method  [[Report]](./assets/reports/DRL_Research.pdf).
+> A novel method of controlling dual arm Manipulation with deep reinforcement learning algorithms  [[Report]](./assets/reports/DRL_Research.pdf).
 
 
 #### **Fast failure detection in robotics using supervised learning method with convolutional gaussian processes**, **YANG YOU**
