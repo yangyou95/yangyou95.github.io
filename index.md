@@ -17,7 +17,7 @@ I'm a MSc student in Robotics
 ## SCIENTIFIC PROJECTS
 #### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
 
-> A novel method of controlling dual arm Manipulation with deep reinforcement learning algorithms  [[Report]](./assets/reports/DRL_Research.pdf).
+> A novel method of controlling dual arm Manipulation with deep reinforcement learning algorithms  
 
 
 #### **Fast failure detection in robotics using supervised learning method with convolutional gaussian processes**, **YANG YOU**
@@ -48,7 +48,7 @@ training than the existing methods without convolution process.
 ## <br> EXPERIENCE
 #### **May.2018 - Sep.2018: Research Intern, Insititue of Automation, Chinese Acadmey of Sciences, Beijing, China.**
 *  Integrated the deep reinforcement learning algorithms (MADDPG and HER) into the robotics simulation in a virtual environment (Mujoco).
-* Internship report[[Report(fr)]](./assets/reports/Report_internship.pdf)
+* Internship report[[Report(fr)]](./assets/reports/Report_internship.pdf)[[Report(en)]](./assets/reports/DRL_Research.pdf).
 
 ## <br> EDUCATION
 #### **2018 - Present: MSc in Robotics, Cranfield University, cranfield, UK**
