@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About me
 
-I'm a MSc student in Robotics. I'm intersted in applying deep reinforcement learning methods to robotics.
+I'm a MSc student in Robotics. I'm interested in applying deep reinforcement learning methods to robotics.
 
 ## SCIENTIFIC PROJECTS
 #### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
