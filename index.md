@@ -39,7 +39,7 @@ training than the existing methods without convolution process.
 > A mobile robot with arms and end effectors, which can perform picking and placing tasks in various environments.
 > [[Slides(ch)]](./assets/reports/slides_ch.pptx)
 
-#### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
+#### **Image Processing with different kernels**, **YANG YOU**
 
 > Image processing is a widely used technique in many areas such as machine learning, medical inspection and camera applications. In this experiment, various kernels are used to perform the image processing task. This report aims at describing the approaches which are used, discussing the advantages and disadvantages among those filters.
 > [[Report]](./assets/reports/Image_Processing.pdf) [[SRC]](https://github.com/yangyou95/Image_processing).
