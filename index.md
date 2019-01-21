@@ -21,7 +21,7 @@ I'm a MSc student in Robotics. I'm interested in applying deep reinforcement lea
 
 #### **Agent Chasing learning with ACKTR**, shuoying Liang, **YANG YOU**
 
-> A ganme with angry bird-like background, reward is calculated by the subsutraction of wanted disance and real distance between the agent and the goal's position.
+> A game with angry bird-like background, reward is calculated by the subsutraction of the disance wanted and real distance between the agent and the goal's position.
 > ACKTR is implented with asynchronous process. By limiting the KL divergence, the optimal direction in paramter space can be guided by the natural gradient.
 
 #### **Fast failure detection in robotics using supervised learning method with convolutional gaussian processes**, **YANG YOU**
