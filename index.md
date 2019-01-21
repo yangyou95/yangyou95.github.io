@@ -17,8 +17,12 @@ I'm a MSc student in Robotics. I'm interested in applying deep reinforcement lea
 ## SCIENTIFIC PROJECTS
 #### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
 
-> A novel method of controlling dual arm Manipulation with deep reinforcement learning algorithms  
+> A novel method of controlling dual arm Manipulation which based on MADDPG and HER (deep reinforcement learning algorithms).  
 
+#### **Agent Chasing learning with ACKTR**, shuoying Liang, **YANG YOU**
+
+> A ganme with angry bird-like background, reward is calculated by the subsutraction of wanted disance and real distance between the agent and the goal's position.
+> ACKTR is implented with asynchronous process. By limiting the KL divergence, the optimal direction in paramter space can be guided by the natural gradient.
 
 #### **Fast failure detection in robotics using supervised learning method with convolutional gaussian processes**, **YANG YOU**
 
