@@ -51,7 +51,7 @@ training than the existing methods without convolution process.
 #### **Hidden Markov Model:  Viterbi Method fordecoding**, **YANG YOU**
 
 > A basic introduction and implentation of Hidden Markov Model. Using Viterbi algorithm to solve the decoing problem.
-> [[Report]](./assets/reports/hmm.pdf) [[SRC]](https://github.com/yangyou95/Hidden_Markov_Model_Viterbi_Method_for_decoding).
+> [[Report]](./assets/reports/hmm.pdf).
 
 
 
