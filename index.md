@@ -48,6 +48,11 @@ training than the existing methods without convolution process.
 > Image processing is a widely used technique in many areas such as machine learning, medical inspection and camera applications. In this experiment, various kernels are used to perform the image processing task. This report aims at describing the approaches which are used, discussing the advantages and disadvantages among those filters.
 > [[Report]](./assets/reports/Image_Processing.pdf) [[SRC]](https://github.com/yangyou95/Image_processing).
 
+#### **Hidden Markov Model:  Viterbi Method fordecoding**, **YANG YOU**
+
+> A basic introduction and implentation of Hidden Markov Model. Using Viterbi algorithm to solve the decoing problem.
+> [[Report]](./assets/reports/hmm.pdf) [[SRC]](https://github.com/yangyou95/Hidden_Markov_Model_Viterbi_Method_for_decoding).
+
 
 
 
