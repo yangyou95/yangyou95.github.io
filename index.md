@@ -57,6 +57,10 @@ training than the existing methods without convolution process.
 
 
 ## <br> EXPERIENCE
+#### **May.2019 - Now: Research Intern, Institute for Research in Computer Science and Automation, Nancy, France.**
+* Working in INRIA/LORIA Larsen team.
+* Design probabilistic model based on POMDP for human-robot collabration task.
+
 #### **May.2018 - Sep.2018: Research Intern, Institute of Automation, Chinese Academy of Sciences, Beijing, China.**
 *  Integrated the deep reinforcement learning algorithms (MADDPG and HER) into the robotics simulation in a virtual environment (Mujoco).
 * Internship report[[Report(fr)]](./assets/reports/Report_internship.pdf)[[Report(en)]](./assets/reports/DRL_Research.pdf).
