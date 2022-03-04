@@ -16,9 +16,13 @@ I am a Ph.D student in Robotics & Computer Science. My research interests are de
 
 ## PUBLICATIONS & SCIENTIFIC PROJECTS
 
-#### Solving infinite-horizon Dec-POMDPs using Finite State Controllers within JESP.
+#### Solving infinite-horizon Dec-POMDPs using Finite State Controllers within JESP
 Y. You, V. Thomas, F. Colas, and O. Buffet.
 Proceedings of the 33rd International Conference on Tools with Artificial Intelligence (ICTAI-21), held virtually, 2021.[[pdf]](https://arxiv.org/pdf/2109.08755.pdf) 
+
+#### Human-Humanoid Interaction and Cooperation: a Review
+Lorenzo Vianello, Luigi Penco, Waldez Gomes, Yang You, Salvatore Maria Anzalone, Pauline Maurice, Vincent Thomas & Serena Ivaldi.
+Current Robotics Reports, pages 441–454 (2021).
 
 <!-- #### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
 
