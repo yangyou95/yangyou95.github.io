@@ -20,7 +20,7 @@ I am a Ph.D student in Robotics & Computer Science. My research interests are de
 Y. You, V. Thomas, F. Colas, and O. Buffet.
 Proceedings of the 33rd International Conference on Tools with Artificial Intelligence (ICTAI-21), held virtually, 2021.[[pdf]](https://arxiv.org/pdf/2109.08755.pdf) 
 
-#### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
+<!-- #### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
 
 > A novel method of controlling dual arm Manipulation which is based on MADDPG and HER (deep reinforcement learning algorithms).  
 
@@ -58,7 +58,7 @@ training than the existing methods without convolution process.
 > A basic introduction and implentation of Hidden Markov Model. Using Viterbi algorithm to solve the decoing problem.
 > [[Report]](./assets/reports/hmm.pdf).
 
-
+ -->
 
 
 ## <br> EXPERIENCE
