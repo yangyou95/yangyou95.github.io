@@ -18,8 +18,7 @@ I am a Ph.D student in Robotics & Computer Science. My research interests are de
 
 #### Solving infinite-horizon Dec-POMDPs using Finite State Controllers within JESP.
 Y. You, V. Thomas, F. Colas, and O. Buffet.
-Proceedings of the 33rd International Conference on Tools with Artificial Intelligence (ICTAI-21), held virtually, 2021.
-> [[pdf]](https://arxiv.org/pdf/2109.08755.pdf) 
+Proceedings of the 33rd International Conference on Tools with Artificial Intelligence (ICTAI-21), held virtually, 2021.[[pdf]](https://arxiv.org/pdf/2109.08755.pdf) 
 
 #### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
 
