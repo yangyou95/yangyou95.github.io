@@ -14,6 +14,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 I am a Ph.D student in Robotics & Computer Science. My research interests are decision-making and planning methods under uncertainties for the robots.
 
+## <br> Skills
+* ROS
+* C/C++, python
+* Decision-Making & Planning 
+
+
 ## PUBLICATIONS & SCIENTIFIC PROJECTS
 
 #### Solving infinite-horizon Dec-POMDPs using Finite State Controllers within JESP
