@@ -12,9 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About me
 
-I am a MSc student who is studying Robotics. I'm interested in applying deep reinforcement learning methods to robotics.
+I am a Ph.D student in Robotics & Computer Science. My research interests are decision-making and planning methods under uncertainties for the robots.
 
-## SCIENTIFIC PROJECTS
+## PUBLICATIONS & SCIENTIFIC PROJECTS
 #### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
 
 > A novel method of controlling dual arm Manipulation which is based on MADDPG and HER (deep reinforcement learning algorithms).  
