@@ -21,8 +21,13 @@ Y. You, V. Thomas, F. Colas, and O. Buffet.
 Proceedings of the 33rd International Conference on Tools with Artificial Intelligence (ICTAI-21), held virtually, 2021.[[pdf]](https://arxiv.org/pdf/2109.08755.pdf) 
 
 #### Human-Humanoid Interaction and Cooperation: a Review
-Lorenzo Vianello, Luigi Penco, Waldez Gomes, Yang You, Salvatore Maria Anzalone, Pauline Maurice, Vincent Thomas & Serena Ivaldi.
+Lorenzo Vianello, Luigi Penco, Waldez Gomes, Yang You, Salvatore Maria Anzalone, Pauline Maurice, Vincent Thomas & Serena Ivaldi. 
 Current Robotics Reports, pages 441–454 (2021).
+
+#### Résolution de Dec-POMDP à horizon infinià l’aide de contrôleurs à états finis dans JESP
+Y. You, V. Thomas, F. Colas, and O. Buffet.
+In Actes des seizièmes journées francophones planification,décision, apprentissage pour la conduite de systèmes (JFPDA-21), 2021.
+
 
 <!-- #### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
 
