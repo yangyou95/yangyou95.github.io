@@ -25,7 +25,7 @@ Update 2023/02/22, I have successfully defended my PhD thesis and I am a Ph.D ri
 
 #### (Accepted) Robust robot planning for human-robot collaboration. 
 You, Y., Thomas, V., Colas, F., Rachid, A., and Buffet, O. 
-Proceedings of The International Conference in Roboticsand Automation (ICRA) (2023)
+Proceedings of The International Conference in Roboticsand Automation (ICRA) (2023) [[pdf]](https://arxiv.org/pdf/2302.13916.pdf)
 
 #### Solving infinite-horizon Dec-POMDPs using Finite State Controllers within JESP
 Y. You, V. Thomas, F. Colas, and O. Buffet.
