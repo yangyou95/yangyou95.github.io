@@ -41,6 +41,17 @@ Y. You, V. Thomas, F. Colas, and O. Buffet.
 In Actes des seizièmes journées francophones planification,décision, apprentissage pour la conduite de systèmes (JFPDA-21), 2021.
 
 
+## Demos
+
+### Autonomous driving using online POMDP planning
+![](/assets/img/autonomous-cars.gif)
+
+
+### Multi-agent planning for continuous-state Dec-POMDPs
+![](/assets/img/multi-agent-planning.gif)
+
+
+
 <!-- #### **Robot Learning for Dual Arm Manipulation**, Qianyuan Liu, Xuemei Ye, **YANG YOU**
 
 > A novel method of controlling dual arm Manipulation which is based on MADDPG and HER (deep reinforcement learning algorithms).  
