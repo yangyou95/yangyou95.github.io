@@ -25,8 +25,8 @@ I am a Ph.D student in Robotics & Computer Science. My research interests are de
 ## PUBLICATIONS & SCIENTIFIC PROJECTS
 
 #### (Accepted) Robust robot planning for human-robot collaboration. 
-You, Y., Thomas, V., Colas, F., Rachid, A., and Buffet, O. 
-Proceedings of The International Conference in Roboticsand Automation (ICRA) (2023) [[pdf]](https://arxiv.org/pdf/2302.13916.pdf)
+Y. You, V. Thomas, F. Colas, R. Alami, and O. Buffet.
+Proceedings of The International Conference in Robotics and Automation (ICRA) (2023) [[pdf]](https://arxiv.org/pdf/2302.13916.pdf)
 
 #### Solving infinite-horizon Dec-POMDPs using Finite State Controllers within JESP
 Y. You, V. Thomas, F. Colas, and O. Buffet.
