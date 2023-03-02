@@ -13,6 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # About me
 
 I am a Ph.D student in Robotics & Computer Science. My research interests are decision-making and planning methods under uncertainties for the robots.
+Update 2023/02/22, I have successfully defended my PhD thesis and I am a Ph.D right now! :D
 
 ## <br> Skills
 * ROS
@@ -21,6 +22,10 @@ I am a Ph.D student in Robotics & Computer Science. My research interests are de
 
 
 ## PUBLICATIONS & SCIENTIFIC PROJECTS
+
+#### (Accepted) Robust robot planning for human-robot collaboration. 
+You, Y., Thomas, V., Colas, F., Rachid, A., and Buffet, O. 
+Proceedings of The International Conference in Roboticsand Automation (ICRA) (2023)
 
 #### Solving infinite-horizon Dec-POMDPs using Finite State Controllers within JESP
 Y. You, V. Thomas, F. Colas, and O. Buffet.
