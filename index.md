@@ -13,7 +13,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # About me
 
 I am a Ph.D student in Robotics & Computer Science. My research interests are decision-making and planning methods under uncertainties for the robots.
-Update 2023/02/22, I have successfully defended my PhD thesis and I am a Ph.D right now! :D
+
+**Update 2023/02/22, I have successfully defended my PhD thesis and I am a Ph.D right now! :D**
 
 ## <br> Skills
 * ROS
