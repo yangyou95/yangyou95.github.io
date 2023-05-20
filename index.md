@@ -25,27 +25,27 @@ I am a Ph.D student in Robotics & Computer Science. My research interests are de
 ## PUBLICATIONS
 
 #### (Accepted) Monte-Carlo Search for an Equilibrium in Dec-POMDPs
-Y. You, V. Thomas, F. Colas, and O. Buffet.
+Y. You, V. Thomas, F. Colas, and O. Buffet. <br />
 Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI-2023)
 
 #### (Accepted) Robust robot planning for human-robot collaboration
-Y. You, V. Thomas, F. Colas, R. Alami, and O. Buffet.
+Y. You, V. Thomas, F. Colas, R. Alami, and O. Buffet. <br />
 Proceedings of The International Conference in Robotics and Automation (ICRA-2023) [[pdf]](https://arxiv.org/pdf/2302.13916.pdf)[[video]](https://www.youtube.com/watch?v=YVE4EPtDlMI)
 
 #### Planification Robuste Pour la Collaboration Homme-Robot
-Y. You, V. Thomas, F. Colas, R. Alami, and O. Buffet.  
+Y. You, V. Thomas, F. Colas, R. Alami, and O. Buffet.  <br />
 In Actes des seizièmes journées francophones planification,décision, apprentissage pour la conduite de systèmes (JFPDA-22), 2022.
 
 #### Solving infinite-horizon Dec-POMDPs using Finite State Controllers within JESP
-Y. You, V. Thomas, F. Colas, and O. Buffet.
+Y. You, V. Thomas, F. Colas, and O. Buffet. <br />
 Proceedings of the 33rd International Conference on Tools with Artificial Intelligence (ICTAI-21), held virtually, 2021.[[pdf]](https://arxiv.org/pdf/2109.08755.pdf) 
 
 #### Human-Humanoid Interaction and Cooperation: a Review
-Lorenzo Vianello, Luigi Penco, Waldez Gomes, Yang You, Salvatore Maria Anzalone, Pauline Maurice, Vincent Thomas & Serena Ivaldi. 
+Lorenzo Vianello, Luigi Penco, Waldez Gomes, Yang You, Salvatore Maria Anzalone, Pauline Maurice, Vincent Thomas & Serena Ivaldi. <br />
 Current Robotics Reports, pages 441–454 (2021).
 
 #### Résolution de Dec-POMDP à horizon infinià l’aide de contrôleurs à états finis dans JESP
-Y. You, V. Thomas, F. Colas, and O. Buffet.
+Y. You, V. Thomas, F. Colas, and O. Buffet. <br />
 In Actes des seizièmes journées francophones planification,décision, apprentissage pour la conduite de systèmes (JFPDA-21), 2021.
 
 
