@@ -114,12 +114,10 @@ training than the existing methods without convolution process.
 * Internship report[[Report(fr)]](./assets/reports/Report_internship.pdf)[[Report(en)]](./assets/reports/DRL_Research.pdf).
 
 ## <br> EDUCATION
-#### **Oct.2019- Feb.2023: Phd in Computer Science, INRIA/Lorraine University, Nancy, France**
-#### **2018- 2019: MSc in Robotics, Cranfield University, Cranfield, UK**
-#### **2016- 2019: 	Diplôme d'ingénieur (French engineering degree, equivalent to an MSc degree) in Mechinical Engineering, INSA-ROUEN, Rouen, France**
-#### **2014- 2016: Preparatory program of Sciences leading to the Grandes Ecole, INSA-ROUEN, Rouen, France**
-#### **Until 2014: Secondary education in Shenyang, China.**
-
+#### **Oct.2019 - Feb.2023: Phd in Computer Science, INRIA/Lorraine University, Nancy, France**
+#### **2018 - 2019: MSc in Robotics, Cranfield University, Cranfield, UK**
+#### **2016 - 2019: Diplôme d'ingénieur (French engineering degree, equivalent to an MSc degree) in Mechinical Engineering, INSA-ROUEN, Rouen, France**
+#### **2014 - 2016: Preparatory program of Sciences leading to the Grandes Ecole, INSA-ROUEN, Rouen, France**
 
 ## <br> PERSONAL ACTIVITIES
 #### **Breakdance Club at INSA**
