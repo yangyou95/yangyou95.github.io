@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About me
 
-I am a Ph.D student in Robotics & Computer Science. My research interests are decision-making and planning methods under uncertainties for the robots.
+I am a Ph.D student in Robotics & Computer Science. My research interests are decision-making and planning methods under uncertainties for robotics.
 
 **Update 2023/02/22, I have successfully defended my PhD thesis and I am a Ph.D right now! :D**
 
@@ -22,11 +22,15 @@ I am a Ph.D student in Robotics & Computer Science. My research interests are de
 * Decision-Making & Planning 
 
 
-## PUBLICATIONS & SCIENTIFIC PROJECTS
+## PUBLICATIONS
+
+#### (Accepted) Monte-Carlo Search for an Equilibrium in Dec-POMDPs
+Y. You, V. Thomas, F. Colas, and O. Buffet.
+Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI-2023)
 
 #### (Accepted) Robust robot planning for human-robot collaboration
 Y. You, V. Thomas, F. Colas, R. Alami, and O. Buffet.
-Proceedings of The International Conference in Robotics and Automation (ICRA) (2023) [[pdf]](https://arxiv.org/pdf/2302.13916.pdf)
+Proceedings of The International Conference in Robotics and Automation (ICRA-2023) [[pdf]](https://arxiv.org/pdf/2302.13916.pdf)[[video]](https://www.youtube.com/watch?v=YVE4EPtDlMI)
 
 #### Planification Robuste Pour la Collaboration Homme-Robot
 Y. You, V. Thomas, F. Colas, R. Alami, and O. Buffet.  
@@ -98,16 +102,20 @@ training than the existing methods without convolution process.
 
 
 ## <br> EXPERIENCE
-#### **May.2019 - Now: Research Intern, Institute for Research in Computer Science and Automation, Nancy, France.**
+#### **May.2023 - May.2023: Research Intern, Institute for AI Industry Research, Beijing, Tsinghua University.**
+* Multi-agent decision making for intelligent transportation system.
+
+#### **May.2019 - Sep.2019: Research Intern, Institute for Research in Computer Science and Automation, Nancy, France.**
 * Working in INRIA/LORIA Larsen team.
 * Design probabilistic model based on POMDP for human-robot collabration task.
 
 #### **May.2018 - Sep.2018: Research Intern, Institute of Automation, Chinese Academy of Sciences, Beijing, China.**
-*  Integrated the deep reinforcement learning algorithms (MADDPG and HER) into the robotics simulation in a virtual environment (Mujoco).
+* Integrated the deep reinforcement learning algorithms (MADDPG and HER) into the robotics simulation in a virtual environment (Mujoco).
 * Internship report[[Report(fr)]](./assets/reports/Report_internship.pdf)[[Report(en)]](./assets/reports/DRL_Research.pdf).
 
 ## <br> EDUCATION
-#### **2018 - Present: MSc in Robotics, Cranfield University, Cranfield, UK**
+#### **Oct.2019- Feb.2023: Phd in Computer Science, INRIA/Lorraine University, Nancy, France**
+#### **2018- 2019: MSc in Robotics, Cranfield University, Cranfield, UK**
 #### **2016- 2019: 	Diplôme d'ingénieur (French engineering degree, equivalent to an MSc degree) in Mechinical Engineering, INSA-ROUEN, Rouen, France**
 #### **2014- 2016: Preparatory program of Sciences leading to the Grandes Ecole, INSA-ROUEN, Rouen, France**
 #### **Until 2014: Secondary education in Shenyang, China.**
