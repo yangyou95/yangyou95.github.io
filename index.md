@@ -38,7 +38,7 @@ In Actes des seizièmes journées francophones planification,décision, apprenti
 
 #### Solving infinite-horizon Dec-POMDPs using Finite State Controllers within JESP
 Y. You, V. Thomas, F. Colas, and O. Buffet. <br />
-In Proceedings of the 33rd International Conference on Tools with Artificial Intelligence (ICTAI-21), held virtually, 2021.[[pdf]](https://arxiv.org/pdf/2109.08755.pdf) 
+In Proceedings of the 33rd International Conference on Tools with Artificial Intelligence (ICTAI-21), held virtually, 2021.[[pdf]](https://arxiv.org/pdf/2109.08755.pdf) [[code]](https://gitlab.inria.fr/anr-fcw/infjesp)
 
 #### Human-Humanoid Interaction and Cooperation: a Review
 Lorenzo Vianello, Luigi Penco, Waldez Gomes, Yang You, Salvatore Maria Anzalone, Pauline Maurice, Vincent Thomas & Serena Ivaldi. <br />
