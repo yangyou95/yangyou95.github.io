@@ -52,7 +52,7 @@ In Actes des seizièmes journées francophones planification,décision, apprenti
 ## Demos
 
 ### Ball-Catching Robot based on planning, learning and CV methods with ROS [[Report]](./assets/reports/GDP-Robotics-Thesis-You-Yang.pdf)
-![](/assets/img/autonomous-cars.gif)
+![](/assets/INTB.png)
 
 
 ### Autonomous driving using online POMDP planning
