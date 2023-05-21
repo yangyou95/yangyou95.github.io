@@ -59,7 +59,7 @@ In Actes des seizièmes journées francophones planification,décision, apprenti
 ![](/assets/img/autonomous-cars.gif)
 
 
-### Multi-agent planning for continuous-state Dec-POMDPs
+### Multi-agent planning for continuous-state Dec-POMDPs (each robot only recieves observations within the linked red circle)
 ![](/assets/img/multi-agent-planning.gif)
 
 
