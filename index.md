@@ -16,7 +16,7 @@ I am a Ph.D student in Robotics & Computer Science. My research interests are de
 
 **Update 2023/02/22, I have successfully defended my PhD thesis and I am a Ph.D right now! :D**
 
-[[CV]](./assets/reports/Yang_You_CV_planning.pdf)
+CV in English[[CV]](./assets/reports/Yang_You_CV_planning.pdf)
 
 ## <br> Skills
 * ROS
