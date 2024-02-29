@@ -26,11 +26,11 @@ CV in English[[CV]](./assets/reports/Yang_You_CV_planning.pdf)
 
 ## PUBLICATIONS
 
-#### (Accepted) Monte-Carlo Search for an Equilibrium in Dec-POMDPs
+#### Monte-Carlo Search for an Equilibrium in Dec-POMDPs
 Y. You, V. Thomas, F. Colas, and O. Buffet. <br />
 In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI-2023)[[pdf]](https://arxiv.org/abs/2305.11811.pdf)[[code]](https://gitlab.inria.fr/anr-fcw/mcjesp)
 
-#### (Accepted) Robust robot planning for human-robot collaboration
+#### Robust robot planning for human-robot collaboration
 Y. You, V. Thomas, F. Colas, R. Alami, and O. Buffet. <br />
 In Proceedings of The International Conference in Robotics and Automation (ICRA-2023) [[pdf]](https://arxiv.org/pdf/2302.13916.pdf)[[video]](https://www.youtube.com/watch?v=YVE4EPtDlMI)[[code]](https://gitlab.inria.fr/anr-fcw/robustrobotplanningoffline)
 
