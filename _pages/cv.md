@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://yangyou95.github.io/files/You_Yang_CV.pdf") (Last Updated: Jan 2026)
+[CV](https://yangyou95.github.io/files/You_Yang_CV.pdf) (Last Updated: Jan 2026)
 
 <!-- 
 Education
